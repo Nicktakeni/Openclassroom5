@@ -135,6 +135,8 @@ document.addEventListener("DOMContentLoaded", function () {
                     JSON.stringify(productChoosen)
                 );
 
+
+
             } else {
                 alert("Veuillez renseigner une couleur et une quantité entre 1 et 100.");
             }
